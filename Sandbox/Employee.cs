@@ -24,5 +24,6 @@ namespace Sandbox
         public abstract int GetBonusPerMonth();
 
         public abstract bool IsBonusPaidOut();
+
     }
 }
